@@ -1,0 +1,48 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://funwithdiscourse.github.io/prynne-vancouver-1971/j-h-prynne-reading-in-vancouver-1971/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "J H Prynne Reading in Vancouver, 1971" ] },
+    "homepage": [
+      {
+        "id": "https://www.archiveofthenow.org/authors/?i=77&amp;f=1764",
+        "type": "Text",
+        "label": { "en": [ "J H Prynne Reading in Vancouver, 1971" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "https://www.archiveofthenow.org",
+        "type": "Agent",
+        "label": { "en": [ "Archive of the Now" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://funwithdiscourse.github.io/prynne-vancouver-1971/j-h-prynne-reading-in-vancouver-1971/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 3662.0,
+        "items": [
+          {
+            "id": "https://funwithdiscourse.github.io/prynne-vancouver-1971/j-h-prynne-reading-in-vancouver-1971/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://funwithdiscourse.github.io/prynne-vancouver-1971/j-h-prynne-reading-in-vancouver-1971/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://www.archiveofthenow.org/media/77/prynne-jh_reading-in-vancouver-30-july-1971-part1_qmul_2013.mp3",
+                  "type": "Sound",
+                  "format": "audio/mp3",
+                    "duration": 3662.0
+                },
+                "target": "https://funwithdiscourse.github.io/prynne-vancouver-1971/j-h-prynne-reading-in-vancouver-1971/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
