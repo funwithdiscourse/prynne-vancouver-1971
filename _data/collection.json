@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "J H Prynne Reading in Vancouver in 1971" ] },
+    "summary": { "en": [ "A partial critical annotation of a recording of a reading given by J. H. Prynne in Vancouver in 1971." ] },
+    "items": [
+    ]
+}
