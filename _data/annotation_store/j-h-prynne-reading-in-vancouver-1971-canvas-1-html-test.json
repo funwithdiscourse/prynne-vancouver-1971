@@ -1,0 +1,30 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://funwithdiscourse.github.io/prynne-vancouver-1971/annotations/j-h-prynne-reading-in-vancouver-1971-canvas-1-html-test.json",
+  "type": "AnnotationPage",
+  "label": "HTML Test",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "j-h-prynne-reading-in-vancouver-1971-canvas-1-html-test-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<em>A boook title</em>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://funwithdiscourse.github.io/prynne-vancouver-1971/j-h-prynne-reading-in-vancouver-1971/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "60.0"
+        }
+      }
+    }
+  ]
+}
