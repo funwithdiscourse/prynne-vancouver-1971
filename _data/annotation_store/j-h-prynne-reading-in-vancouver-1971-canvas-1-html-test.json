@@ -14,7 +14,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "<em>A boook title</em>",
+        "value": "Introductory text to a <br>block quote<br>and text which provides some explication",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -22,7 +22,7 @@
         "source": "https://funwithdiscourse.github.io/prynne-vancouver-1971/j-h-prynne-reading-in-vancouver-1971/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "60.0"
+          "t": "600.0"
         }
       }
     }
