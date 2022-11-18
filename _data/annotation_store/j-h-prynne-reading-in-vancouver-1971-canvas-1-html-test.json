@@ -1,9 +1,0 @@
-{
-  "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://funwithdiscourse.github.io/prynne-vancouver-1971/annotations/j-h-prynne-reading-in-vancouver-1971-canvas-1-html-test.json",
-  "type": "AnnotationPage",
-  "label": "HTML Test",
-  "items": [
-
-  ]
-}
