@@ -1,0 +1,184 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://funwithdiscourse.github.io/prynne-vancouver-1971/annotations/j-h-prynne-reading-in-vancouver-1971-canvas-1-context-and-speculation.json",
+  "type": "AnnotationPage",
+  "label": "Context and Speculation",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "j-h-prynne-reading-in-vancouver-1971-canvas-1-context-and-speculation-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The recording starts \"in media res\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://funwithdiscourse.github.io/prynne-vancouver-1971/j-h-prynne-reading-in-vancouver-1971/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "0.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "j-h-prynne-reading-in-vancouver-1971-canvas-1-context-and-speculation-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"Is Pat here tonight\" - probably (maybe?) Pat Lowther, [her biography (*The half-lives of Pat Lowther*) is accessible through library]",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://funwithdiscourse.github.io/prynne-vancouver-1971/j-h-prynne-reading-in-vancouver-1971/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "9.0,10.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "j-h-prynne-reading-in-vancouver-1971-canvas-1-context-and-speculation-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The audience laughs after Prynne finishes reading \"Thinking of you.\" It is a curious response, but somewhat understandable. The poem, from one angle [creates a tension] between language which, momentarily, seems silly: \"fat in the can,\" and more serious: \"the rancid power of the continuum.\" This tension seems heightened by the manner in which Prynne reads the poem. The slow and deliberate reading emphasises the [words]",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://funwithdiscourse.github.io/prynne-vancouver-1971/j-h-prynne-reading-in-vancouver-1971/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "115.0,116.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "j-h-prynne-reading-in-vancouver-1971-canvas-1-context-and-speculation-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"oh two or three years ago\" - i.e. 1969, or 1968 (if the recording's metadata is to be trusted)",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://funwithdiscourse.github.io/prynne-vancouver-1971/j-h-prynne-reading-in-vancouver-1971/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "266.0,267.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "j-h-prynne-reading-in-vancouver-1971-canvas-1-context-and-speculation-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "First translation of Tolstoy's Resurrection [find it; translation dated \"oh 1901 something like that\"]",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://funwithdiscourse.github.io/prynne-vancouver-1971/j-h-prynne-reading-in-vancouver-1971/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "283.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "j-h-prynne-reading-in-vancouver-1971-canvas-1-context-and-speculation-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "A facsimile of this dedication can be viewed here: <a href=\"https://www.canadiana.ca/view/oocihm.93694/14\">Here</a>. In full, it reads: \"Note: All the Author's royalties on this work will be devoted to the assistance of the Russian Doukhobors who have emigrated to Canada to escape the persecutions they have been undergoing at the hands of the Russian Government\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://funwithdiscourse.github.io/prynne-vancouver-1971/j-h-prynne-reading-in-vancouver-1971/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "291.0,292.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "j-h-prynne-reading-in-vancouver-1971-canvas-1-context-and-speculation-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"was interested at that time\" in Tolstoy's \"later activities.\" Is he still interested in them now at the time of this recording?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://funwithdiscourse.github.io/prynne-vancouver-1971/j-h-prynne-reading-in-vancouver-1971/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "306.0,313.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "j-h-prynne-reading-in-vancouver-1971-canvas-1-context-and-speculation-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The book is George Woodcock's book mentioned now",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://funwithdiscourse.github.io/prynne-vancouver-1971/j-h-prynne-reading-in-vancouver-1971/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "318.0,320.0"
+        }
+      }
+    }
+  ]
+}
