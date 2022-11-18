@@ -5,7 +5,7 @@
     "label": { "en": [ "J H Prynne Reading in Vancouver, 1971" ] },
     "homepage": [
       {
-        "id": "https://www.archiveofthenow.org/authors/?i=77&amp;f=1764",
+        "id": "https://www.archiveofthenow.org/authors/?i=77&amp;amp;f=1764",
         "type": "Text",
         "label": { "en": [ "J H Prynne Reading in Vancouver, 1971" ] },
         "format": "text/html"
@@ -23,6 +23,16 @@
         "id": "https://funwithdiscourse.github.io/prynne-vancouver-1971/j-h-prynne-reading-in-vancouver-1971/canvas-1/canvas",
         "type": "Canvas",
         "duration": 3662.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://funwithdiscourse.github.io/prynne-vancouver-1971/annotations/j-h-prynne-reading-in-vancouver-1971-canvas-1-contexts-and-questions.json",
+            "label": {
+              "none": ["Contexts and Questions"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://funwithdiscourse.github.io/prynne-vancouver-1971/j-h-prynne-reading-in-vancouver-1971/canvas-1/paintings",
