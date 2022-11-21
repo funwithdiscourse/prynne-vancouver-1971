@@ -2,12 +2,12 @@
     "@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "https://funwithdiscourse.github.io/prynne-vancouver-1971/j-h-prynne-reading-in-vancouver-1971/manifest.json",
     "type": "Manifest",
-    "label": { "en": [ "J H Prynne Reading in Vancouver, 1971" ] },
+    "label": { "en": [ "J H Prynne Reading in Vancouver, July 30, 1971" ] },
     "homepage": [
       {
-        "id": "https://www.archiveofthenow.org/authors/?i=77&amp;amp;amp;amp;amp;amp;amp;amp;amp;f=1764",
+        "id": "https://www.archiveofthenow.org/authors/?i=77&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;f=1764",
         "type": "Text",
-        "label": { "en": [ "J H Prynne Reading in Vancouver, 1971" ] },
+        "label": { "en": [ "J H Prynne Reading in Vancouver, July 30, 1971" ] },
         "format": "text/html"
       }
     ],
